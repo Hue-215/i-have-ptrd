@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "i-have-ptrd",
+  "description": "A parody of i-have-adhd. Violence-driven development with a PTRD-41.",
+  "owner": {
+    "name": "niigo"
+  },
+  "plugins": [
+    {
+      "name": "i-have-ptrd",
+      "description": "Violence-driven development with a PTRD-41.",
+      "source": "./",
+      "category": "entertainment"
+    }
+  ]
+}

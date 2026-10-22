@@ -1,0 +1,8 @@
+{
+  "name": "i-have-ptrd",
+  "version": "0.1.0",
+  "description": "A joke skill: talk as if both you and Claude are holding a PTRD-41 anti-tank rifle, and practice violence-driven development.",
+  "author": {
+    "name": "niigo"
+  }
+}
